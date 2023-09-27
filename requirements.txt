@@ -1,0 +1,11 @@
+google_play_scraper==1.1.0
+matplotlib==3.4.3
+nltk==3.6.5
+numpy==1.23.1
+pandas==1.4.2
+plotly==5.9.0
+Sastrawi==1.0.1
+streamlit>=1.12.2
+torch==1.12.0
+transformers==4.19.2
+wordcloud==1.8.2.2
